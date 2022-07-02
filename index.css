@@ -10,6 +10,7 @@
 }
 .nav {
   width: 66%;
+  display: inline-block;
   font-size: 20px;
   align-content: bottom;
 }
