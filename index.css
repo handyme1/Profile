@@ -1,16 +1,15 @@
 .header {
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
   background-color: white;
   padding: 15px 15px 15px 20px;
 }
 .logo {
   width: 33%;
-  flex: 1;
   float: left;
 }
 .nav {
   width: 66%;
-  float: right;
   font-size: 20px;
   align-content: bottom;
 }
