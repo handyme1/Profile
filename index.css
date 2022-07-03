@@ -28,21 +28,21 @@ body {
   background-repeat: no-repeat;
 }
 .mainpg{
-    padding: 10% 20%;
+    padding: 5% 20%;
   }
   .myimage {
     width: 29%;
-    background-color: #fffff;
+    background-color: #ffffff;
     border: 5px solid white;
     align-content: center;
   }
   .mytext {
     background-color: #028090;
     color: #ffffff;
-    margin: -15% 5% 1% 30%;
+    margin: -15% 5% 1% 20%;
     padding: 5% 5% 5% 15%;
     display: center;
-    width: 40%;
+    width: 60%;
     font-size: 25px;
 }
 footer {
