@@ -45,6 +45,7 @@ body {
     font-size: 25px;
 }
 footer {
+  display: inline-block;
   background-color: #af036f;
   height: 200px
 }
