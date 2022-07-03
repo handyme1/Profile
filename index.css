@@ -32,9 +32,9 @@ body {
   }
   .myimage {
     width: 29%;
-    background-color: white;
+    background-color: #fffff;
     border: 5px solid white;
-    display-content: center;
+    align-content: center;
   }
   .mytext {
     background-color: #028090;
