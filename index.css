@@ -64,3 +64,11 @@ footer {
   background: white;
   margin: 1%;
 }
+ .projectimage{
+    float: left;
+    padding: .2%;
+  }
+  .projectlink{
+    float: right;
+    padding: .2%;
+  }
