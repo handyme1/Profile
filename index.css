@@ -46,29 +46,33 @@ body {
 }
 footer {
   background-color: #af036f;
-  color: white;
+  height: 200px
 }
+.footercontainer{
+  display: inline-block;
+  padding: 2%;
+  
 .contactinfo {
-  float: left;
+  display: inline-block;
   align-content: center;
-  width: 25%;
   padding: 2%;
 }
 .project select {
-  float: right;
   width: 75%;
+  padding: 2%;
 }
 .indiprojectbx {
   width: 20%;
+  height: 150px
   display: inline;
   background: white;
   margin: 1%;
 }
  .projectimage{
-    float: left;
-    padding: .2%;
+    display: inline; 
+    padding: .5%;
   }
   .projectlink{
-    float: right;
-    padding: .2%;
+    display: inline;
+    padding: .5%;
   }
